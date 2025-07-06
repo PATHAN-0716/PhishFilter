@@ -2,13 +2,11 @@
 
 A machine learning project to classify emails as **Spam** or **Not Spam** using natural language processing (NLP) techniques and supervised learning algorithms.
 
----
 
 ## 🚀 Project Overview
 
 This project builds a spam detection system using Python, scikit-learn, and NLP techniques. It uses a dataset of labeled emails and processes them to train a machine learning model that can accurately classify unseen emails.
 
----
 
 ## 🧠 Features
 
